@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Страница</title>
+  <link rel="stylesheet" href="css.css" type="text/css"/>
+</head>
+
+<body>
+  1) ссылка на <a href="https://www.google.com/">ссылку</a>.
+  2) <strong>Жирный жир!</strong>
+  3) <em> Курсивный курсир </em> <br>
+  4) Изучаю новую строки.
+<div class="abcd">CSS!</div>
+  <div class="abcde">CSS!</div>
+    <h6>5) пробую</h6>
+  <h4>увеличить</h4>
+  <h2>этот</h2>
+  <h1>текст</h1> <br>
+  6) <img src="cube.png" class="imgag" width="40 pix">
+  <img src="cube.png" class="imgag" width="100 pix">
+  <img src="cube.png" class="imgag" width="250 pix"> <br>
+  7) <table border="4">
+    <tr>
+      <td>Создаю</td>
+      <td>таблицу</td>
+    </tr>
+    <td>вниз</td>
+    <td>вправо</td>
+  </table>
+  8)<input type="text" value="Ввод всякой фигни"> <br>
+  9)<textarea name="Еще больше всякой фигни" rows="5" cols="80"></textarea>
+  <div>див</div>
+</body>
+
+</html>
